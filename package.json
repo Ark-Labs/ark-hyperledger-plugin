@@ -1,10 +1,10 @@
 {
   "private": true,
-  "name": "@vadymus/hyperledger-plugin",
+  "name": "@vadymus/ark-hyperledger-plugin",
   "description": "Provides my func for ARK Core",
   "version": "0.0.1",
   "contributors": [
-    "Your Name <your@domain.io>"
+    "Vadym Ustymenko <ustymenko@gmail.com>"
   ],
   "license": "MIT",
   "main": "lib/index.js",
