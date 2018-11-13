@@ -31,6 +31,7 @@
     "jsdoc": "^3.5.5",
     "regenerator-runtime": "^0.11.1",
     "standard": "^11.0.1",
-    "nodemailer": "4.6.8" 
+    "nodemailer": "4.6.8",
+    "web3": "0.20.2"
   }
 }
